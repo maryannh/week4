@@ -1,0 +1,1 @@
+These files are based on examples from https://www.raspberrypi.org/learning/physical-computing-with-python/ but adapted to use Terminal and Nano instead of the IDLE3 shell. Pins have also been changed to accomodate a button, LED and distance sensor all at once.
